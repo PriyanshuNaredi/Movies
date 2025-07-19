@@ -5,9 +5,6 @@ on:
     branches:
       - main
 
-env:
-  # Global environment variables can go here
-  VITE_API_URL: https://api.example.com
 
 jobs:
   build:
